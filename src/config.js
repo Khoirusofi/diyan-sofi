@@ -20,11 +20,17 @@ export const WEDDING = {
   // Taruh foto di public/photos/ (jpg/png/webp). Jika belum ada, tampil placeholder.
   hero: "/photos/hero.jpg",
   photos: [
-    { src: "/photos/foto-1.jpg", caption: "Awal kami bertemu" },
-    { src: "/photos/foto-2.jpg", caption: "Tawa yang sama" },
-    { src: "/photos/foto-3.jpg", caption: "Perjalanan kita" },
-    { src: "/photos/foto-4.jpg", caption: "Hari yang dinanti" },
-    { src: "/photos/foto-5.jpg", caption: "Bersama, selalu" },
-    { src: "/photos/foto-6.jpg", caption: "Menuju selamanya" },
+    { src: "/photos/foto-1.jpeg", caption: "Awal kami bertemu" },
+    { src: "/photos/foto-2.jpeg", caption: "Momen bahagia bersama" },
+    { src: "/photos/foto-3.jpeg", caption: "Liburan bersama" },
+    { src: "/photos/foto-4.jpeg", caption: "Momen spesial" },
+    { src: "/photos/foto-5.jpeg", caption: "Kenangan indah" },
+    { src: "/photos/foto-6.jpeg", caption: "Momen romantis" },
+    { src: "/photos/foto-7.jpeg", caption: "Bersama keluarga" },
+    { src: "/photos/foto-8.jpeg", caption: "Momen bahagia" },
+    { src: "/photos/foto-9.jpeg", caption: "Kenangan manis" },
+    { src: "/photos/foto-10.jpeg", caption: "Momen tak terlupakan" },
+    { src: "/photos/foto-11.jpeg", caption: "Momen spesial" },
+    { src: "/photos/foto-12.jpeg", caption: "Kenangan indah" },
   ],
 };
